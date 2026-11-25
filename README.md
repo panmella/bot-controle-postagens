@@ -1,4 +1,4 @@
-# 📊 Bot de Controle de Postagens e Produtividade (@portalblackpink)
+📊 Bot de Controle de Postagens e Produtividade (@portalblackpink)
 
 Bot desenvolvido em **Python** e **SQLite** para automatizar o registro de postagens e o acompanhamento de metas de uma equipe de 12 administradores no Telegram, substituindo planilhas manuais por captura automática de links e geração de relatórios visuais.
 
@@ -25,7 +25,7 @@ Bot desenvolvido em **Python** e **SQLite** para automatizar o registro de posta
 
 ## 🚀 Como Executar Localmente
 
-1. Clone este repositório:
+1. **Clone este repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/bot-controle-postagens.git](https://github.com/seu-usuario/bot-controle-postagens.git)
+   git clone [https://github.com/panmella/bot-controle-postagens.git](https://github.com/panmella/bot-controle-postagens.git)
    cd bot-controle-postagens
