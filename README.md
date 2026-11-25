@@ -1,4 +1,4 @@
-📊 Bot de Controle de Postagens e Produtividade (@portalblackpink)
+# 📊 Bot de Controle de Postagens e Produtividade (@portalblackpink)
 
 Bot desenvolvido em **Python** e **SQLite** para automatizar o registro de postagens e o acompanhamento de metas de uma equipe de 12 administradores no Telegram, substituindo planilhas manuais por captura automática de links e geração de relatórios visuais.
 
@@ -15,7 +15,7 @@ Bot desenvolvido em **Python** e **SQLite** para automatizar o registro de posta
   - `/relatorio` (ou `/semanal`): Ranking dos últimos 7 dias com verificação de meta semanal.
   - `/mensal` e `/anual`: Rankings de 30 e 365 dias acompanhados de **gráfico de pizza** gerado dinamicamente com `Matplotlib`.
 
-  ## 📸 Demonstração
+## 📸 Demonstração
 
 ![Exemplo de comando e gráfico de produtividade](exemplo-bot.png)
 
