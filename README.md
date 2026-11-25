@@ -15,6 +15,10 @@ Bot desenvolvido em **Python** e **SQLite** para automatizar o registro de posta
   - `/relatorio` (ou `/semanal`): Ranking dos últimos 7 dias com verificação de meta semanal.
   - `/mensal` e `/anual`: Rankings de 30 e 365 dias acompanhados de **gráfico de pizza** gerado dinamicamente com `Matplotlib`.
 
+  ## 📸 Demonstração
+
+![Exemplo de comando e gráfico de produtividade](exemplo-bot.png)
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python 3.14**
