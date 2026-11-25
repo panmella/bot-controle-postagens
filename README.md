@@ -33,3 +33,20 @@ Bot desenvolvido em **Python** e **SQLite** para automatizar o registro de posta
    ```bash
    git clone [https://github.com/panmella/bot-controle-postagens.git](https://github.com/panmella/bot-controle-postagens.git)
    cd bot-controle-postagens
+   ```
+
+2. **Instale as dependências:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Configure as variáveis de ambiente:**
+   Crie um arquivo `.env` na raiz do projeto (baseado no `.env.example`) com o token gerado pelo `@BotFather`:
+   ```env
+   TELEGRAM_TOKEN=seu_token_do_botfather_aqui
+   ```
+
+4. **Execute o bot:**
+   ```bash
+   py bot.py
+   ```
