@@ -31,7 +31,7 @@ Bot desenvolvido em **Python** e **SQLite** para automatizar o registro de posta
 
 1. **Clone este repositório:**
    ```bash
-   git clone [https://github.com/panmella/bot-controle-postagens.git](https://github.com/panmella/bot-controle-postagens.git)
+   git clone https://github.com/panmella/bot-controle-postagens.git
    cd bot-controle-postagens
    ```
 
